@@ -1,0 +1,135 @@
+@media(min-width:1500px){
+    .slick-slide img{
+        margin: 97px auto 31px auto;
+
+    }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 991px) and (orientation:portrait) {
+    .search-result .col-sm-4 {
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+@media(max-width:1199px){
+
+.first-i label {
+    width: 171px!important;
+}
+.number-input {
+    margin-bottom: 6px;
+}
+}
+@media(max-width:991px){
+    .train_div .text{
+        flex-direction: column;
+
+   
+}
+.header-desktop {
+    display: none;
+}
+.header-home ul li.item_team {
+    padding-right: 0!important;
+}
+.menu_left_toogle.d-flex.responsive-header {
+    display: flex!important;
+}
+.ant-drawer{
+    display: block;
+    }
+span.line_dash {
+    margin-left: 0;
+}
+.mobileabout{
+
+    background-size: auto;
+
+}
+.Confirmationseasons .text-center.top_model_data {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.text-input-filed.top_cers_new .first-div-item {
+    flex-wrap: wrap;
+}
+/* .ant-menu-submenu-selected .ant-menu-title-content:after {
+    display:none;
+} */
+}
+@media(max-width:767px){
+    .carddetails .col-sm-6 {
+        flex: 100%;
+        max-width: 100%;
+    }
+    .top_cers_new .first-div-item label {
+        width: 226px;
+    }
+    
+    .margin_top {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .top_cers_new{
+        flex-wrap: wrap;
+    }
+    .d-flex.space_edit p{
+        width: 127px!important;
+    }
+    
+}
+@media(max-width:566px){
+    .text_wrapper_w.payments.pay_div {
+        margin-top: 30px;
+    }
+}
+@media(max-width:480px){
+
+    .d-flex.buttons {
+        flex-wrap: wrap;
+        align-items: center;
+    justify-content: center;
+    }
+    button.button.text.text_simple.des12_t,.button.button.text.press_button {
+        width: 200px;
+        max-width: initial;
+
+    }
+    li.button.text.last {
+        margin-top: 0;
+    }
+    .d-flex {
+        display: flex !important;
+        flex-wrap: wrap;
+    }
+    .text_wrapper_w.payments .d-flex h2 + p{
+        text-align: left!important;
+
+    }
+    .col-sm-6.left-paymnets {
+        padding-left: 14px;
+    }
+    .text_wrapper_w.payments.pay_div {
+        margin-top: 35px;
+    }
+    .works .line-text_text{
+        bottom: 28px;
+
+    }
+    span.button.same{
+        margin-top: 8px;
+
+    }
+    .lite-text {
+        position: relative;
+        top: -4px;
+    }
+    .line-text-d {
+        margin-bottom: 30px;
+    }
+    button.button.text.tet-ios_one{
+max-width: initial;
+    }
+  
+}
